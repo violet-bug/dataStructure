@@ -8,7 +8,7 @@ public class DuLinkListTest {
         dl.add("cccc");
         dl.add("dddd");
 
-        System.out.println(dl.toString());
         System.out.println(dl.remove());
+        System.out.println(dl.toString());
     }
 }
