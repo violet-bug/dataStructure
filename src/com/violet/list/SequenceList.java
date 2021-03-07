@@ -3,7 +3,7 @@ package com.violet.list;
 import java.util.Arrays;
 
 public class SequenceList<T> {
-   //初始化默认长度
+   //初始化数组默认长度
    private int  DEFAULT_SIZE = 16;
    //数组的长度
    private int capacity;
